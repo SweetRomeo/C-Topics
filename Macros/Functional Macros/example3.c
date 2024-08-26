@@ -1,5 +1,6 @@
 /*---------------------------------
-
+  Aşağıdaki örnekte kendisine göderilen sayının
+  karesini alan bir fonksiyonel macro gösterilmiştir.
 ---------------------------------*/
 #include <stdio.h>
 
