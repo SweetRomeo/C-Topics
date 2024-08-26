@@ -1,5 +1,7 @@
 /*---------------------------------
-
+Aşağıdaki örnekte 2 sayıdan en küçüğünü
+elde eden MIN isimli bir fonksiyonel 
+makro gösterilmiştir.
 ---------------------------------*/
 #include <stdio.h>
 
